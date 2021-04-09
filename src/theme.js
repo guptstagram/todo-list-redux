@@ -7,11 +7,6 @@ const theme = createMuiTheme({
             light: "#D3E3FC",
             contrastText: "#FFF",
         },
-        secondary: {
-            light: "FFCCBC",
-            main: "#F78888",
-            contrastText: "#000",
-        },
     },
     typography: {
         fontFamily: 'Quicksand',
